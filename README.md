@@ -6,3 +6,4 @@ It's a KiCad template for designing your own modules. PCB contour, Hole size/spa
 
 | ![Alt text](./images/front.png) | ![Alt text](./images/back.png) |
 |:---:|:---:|
+|Top|Bottom|
